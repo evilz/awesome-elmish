@@ -26,6 +26,7 @@
 - [Fabulous](https://fsprojects.github.io/Fabulous/) : F# Functional App Development, using declarative dynamic UI for Xamarin.Forms and target iOS, Android, Mac, WPF and more!
 - [Fabulous V2](https://github.com/TimLariviere/Fabulous-new) : Fabulous-new
 - [Elmish Xamarin Forms](https://github.com/dboris/elmish-forms) : Elmish for Xamarin Forms
+- [Comet](https://github.com/dotnet/Comet) : Comet is a modern way of writing cross-platform UIs. Based on .NET MAUI, it follows the Model View Update (MVU) pattern in C#
 
 ## Desktop Gui
 
