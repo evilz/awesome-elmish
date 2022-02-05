@@ -33,6 +33,7 @@
 - [Elmish.WPF](https://github.com/elmish/Elmish.WPF) : WPF done the Elmish Way
 - [Avalonia FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) : Develop cross-platform MVU GUI Applications using F# and Avalonia!
 - [Elmish.Uno](https://github.com/unoplatform/Elmish.Uno) : WPF done the Elmish Way with uno
+- [Terminal.Gui.Elmish](https://github.com/DieselMeister/Terminal.Gui.Elmish) : An elmish wrapper around Miguel de Icaza's 'Gui.cs' https://github.com/migueldeicaza/gui.cs including a fable like view DSL.
 
 
 ## Gaming
