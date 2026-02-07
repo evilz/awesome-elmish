@@ -10,6 +10,7 @@
 - [Mobile](#mobile)
 - [Desktop Gui](#desktop-gui)
 - [Gaming](#gaming)
+- [Samples](#samples)
 
 ## Elmish
 
@@ -40,6 +41,6 @@
 
 - [Xelmish](https://github.com/ChrisPritchard/Xelmish) : Xelmish - XNA + Elmish!
 
-## Smaples
+## Samples
 
 - [Console counter](https://gist.github.com/evilz/2e4f7d2914aedafe656b5842d5186f63) : Counter console app in fsx
