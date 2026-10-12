@@ -40,6 +40,7 @@
 ## Gaming
 
 - [Xelmish](https://github.com/ChrisPritchard/Xelmish) : Xelmish - XNA + Elmish!
+- [Mibo](https://github.com/AngelMunoz/Mibo) : Elmish game framework for F# on raylib-cs and MonoGame
 
 ## Samples
 
